@@ -1,0 +1,25 @@
+.societies {
+
+    padding:50px 40px;
+    background:#f8f9fa;
+
+}
+
+
+.societies h1 {
+
+    text-align:center;
+    color:#1d3557;
+    margin-bottom:30px;
+
+}
+
+
+.society-container {
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:25px;
+
+}

@@ -1,0 +1,77 @@
+.add-event-page {
+
+    min-height:80vh;
+    background:#f8f9fa;
+    padding:50px;
+    display:flex;
+    justify-content:center;
+
+}
+
+
+.add-event-container {
+
+    background:white;
+    width:500px;
+    padding:40px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.15);
+
+}
+
+
+.add-event-container h1 {
+
+    text-align:center;
+    color:#1d3557;
+    margin-bottom:30px;
+
+}
+
+
+.add-event-form input,
+.add-event-form select,
+.add-event-form textarea {
+
+    width:100%;
+    padding:12px;
+    margin-bottom:15px;
+
+    border:1px solid #ccc;
+    border-radius:8px;
+
+    font-size:16px;
+
+}
+
+
+.add-event-form textarea {
+
+    height:120px;
+    resize:none;
+
+}
+
+
+.add-event-form button {
+
+    width:100%;
+    padding:14px;
+
+    border:none;
+    border-radius:25px;
+
+    background:#1d3557;
+    color:white;
+
+    font-size:17px;
+    cursor:pointer;
+
+}
+
+
+.add-event-form button:hover {
+
+    background:#457b9d;
+
+}

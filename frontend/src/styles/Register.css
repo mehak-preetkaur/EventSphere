@@ -1,0 +1,92 @@
+.register-page{
+
+    min-height:80vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+
+.register-box{
+
+    width:400px;
+
+    padding:30px;
+
+    background:white;
+
+    border-radius:15px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,0.15);
+
+}
+
+
+.register-box h1{
+
+    text-align:center;
+
+    color:#1d3557;
+
+}
+
+
+.register-box h3{
+
+    text-align:center;
+
+    color:#555;
+
+    margin-bottom:20px;
+
+}
+
+
+.register-box form{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+
+.register-box input{
+
+    padding:12px;
+
+    border-radius:8px;
+
+    border:1px solid #ccc;
+
+}
+
+
+.register-box button{
+
+    padding:12px;
+
+    background:#2a9d8f;
+
+    color:white;
+
+    border:none;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+}
+
+
+.register-box button:hover{
+
+    background:#21867a;
+
+}
